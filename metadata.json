@@ -1,0 +1,5 @@
+{
+  "name": "Lebanon Places Search",
+  "description": "A streamlined tool to search for restaurants and hotels in Lebanon using Google Maps data, specifically designed to retrieve Place IDs.",
+  "requestFramePermissions": []
+}
